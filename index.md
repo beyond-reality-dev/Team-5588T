@@ -1,6 +1,6 @@
 ---
 title: About Us
-layout: template
+layout: layouts/template.html
 filename: index
 --- 
 # Team 5588T
