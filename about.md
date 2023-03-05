@@ -1,7 +1,7 @@
 ---
 title: About Us
 layout: template
-filename: index
+filename: about
 --- 
 # Team 5588T
 Placeholder
